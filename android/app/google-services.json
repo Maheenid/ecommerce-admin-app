@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "367284984661",
+    "project_id": "chat-app-822a2",
+    "storage_bucket": "chat-app-822a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367284984661:android:1c62c643ebf7b92a92addc",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYQRgB7fAT5K_1yyHhpMPJRnkYXAacko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367284984661-5k9qm6q91pde45bpq5kcv9l7r7tcffcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xchat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367284984661:android:e33e31fa2612b76692addc",
+        "android_client_info": {
+          "package_name": "com.example.eco_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYQRgB7fAT5K_1yyHhpMPJRnkYXAacko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367284984661-5k9qm6q91pde45bpq5kcv9l7r7tcffcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xchat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367284984661:android:ac935fb19c35d95092addc",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYQRgB7fAT5K_1yyHhpMPJRnkYXAacko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367284984661-5k9qm6q91pde45bpq5kcv9l7r7tcffcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xchat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367284984661:android:201439a91704988b92addc",
+        "android_client_info": {
+          "package_name": "com.example.xchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYQRgB7fAT5K_1yyHhpMPJRnkYXAacko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367284984661-e9v6s6t0p8n2bp5s33on2p7ui5g6grtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367284984661-5k9qm6q91pde45bpq5kcv9l7r7tcffcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xchat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
